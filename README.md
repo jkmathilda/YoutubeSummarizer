@@ -10,11 +10,11 @@ To get started with this project, you'll need to clone the repository and set up
 
 ### Cloning the Repository
 
-    git clone https://github.com/jkmathilda/YoutubeSummarizer.git
+    git clone https://github.com/jkmathilda/gpt-YoutubeSummarizer.git
 
 ### Setting up a Virtual Environment
 
-    cd ./YoutubeSummarizer
+    cd ./gpt-YoutubeSummarizer
 
     pyenv versions
 
@@ -33,7 +33,11 @@ To get started with this project, you'll need to clone the repository and set up
 
 ### Install the required dependencies
 
+    pip list
+
     pip install -r requirements.txt
+
+    pip freeze | tee requirements.txt.detail
 
 ### Configure the Application
 

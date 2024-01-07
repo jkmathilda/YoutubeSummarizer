@@ -1,7 +1,7 @@
 python_dotenv
 openai
 langchain
-streamlit
-sacremoses
-youtube-transcript-api
+langchain_openai
+langchain-community
+youtube_transcript_api
 tiktoken
