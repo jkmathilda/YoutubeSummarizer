@@ -53,8 +53,6 @@ To configure the application, there are a few properties that can be set the env
 
     deactivate
 
-### Reference
+# Reference
 
-Youtube : Summarize a YouTube Video + Count OpenAI token Usage
-[https://www.youtube.com/watch?v=rA3RtNV797I]
-
+[Summarize a YouTube Video + Count OpenAI token Usage](https://www.youtube.com/watch?v=rA3RtNV797I)
